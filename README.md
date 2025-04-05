@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashi Ranjan Kumar
 
-<!--
-**sranjan27/sranjan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year IT Student | 🌍 From Gopalganj, Bihar  
+💻 Passionate about Cloud Computing, Software Development & Real-World Software Solutions  
+☁️ AWS Cloud Learner | Deployed Multiple Websites on EC2 using Ubuntu & Apache2  
+🔧 Java, MySQL, Swing, NetBeans | C++, HTML, CSS  
+🚀 Actively seeking tech roles in MNCs & Cloud Solution Architect Internships  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Skills
+- **Languages:** Java, C++, HTML, CSS  
+- **Backend:** Java Swing, JDBC, MySQL  
+- **Cloud:** AWS EC2, IAM, S3, VPC, EBS, EFS, cloudFront, Lambda, ELB 
+- **Tools:** NetBeans, GitHub, Apache2, Ubuntu Server  
+
+---
+
+## 📂 My Projects
+- 🍅 [Vegetable Management System](#) – Backend dev role in a 8-member team (handles real-time mandi prices, transportation, and direct farmer-to-seller selling)  
+- 🖥️ Hosted multiple websites on EC2 with Apache2  
+- More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+- ✉️ Email: [srnjan913gpl@gmail.com](mailto:srnjan913gpl@gmail.com)  
+- 💼 LinkedIn: [Shashi Ranjan Kumar](https://www.linkedin.com/in/shashi-ranjan-kumar-173781268/)
+
